@@ -7,7 +7,7 @@
 
 ### **🔧 Tech & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,python,react,js,php,vscode,visualstudio,unity,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,js,python,react,php,vscode,visualstudio,unity,mysql&theme=dark" />
 </p>
 
 ### **🌎 Let's Connect!**
