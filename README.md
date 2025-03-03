@@ -1,26 +1,33 @@
+<h3 align="center"> Developer | Passionate About Learning </h3>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hello!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <!-- Gradient Welcome Banner -->
+  <img src="https://capsule-render.vercel.app/api?text=Welcome!&type=waving&color=0:ff7eb3,100:ff758c&height=100&fontColor=ffffff"/>
 </p>
 
-
-<h2> Let's connect! </h2>
+### **🔧 Tech & Tools**
 <p align="left">
-<a href="https://www.instagram.com/s_rvrs/">
-<img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-<a href="https://www.linkedin.com/in/sharmaine-rioveros-23599027a/">
-<img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png"/>
+  <img src="https://skillicons.dev/icons?i=cs,python,react,js,php,vscode,visualstudio,unity,mysql&theme=dark" />
 </p>
-</a>
 
-<h2> Tools that I have used and learned </h2>
+### **🌎 Let's Connect!**
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="vsstudio" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+  <a href="https://www.instagram.com/s_rvrs/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sharmaine-rioveros-23599027a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sharmainerr">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
 
